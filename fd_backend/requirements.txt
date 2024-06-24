@@ -98,4 +98,7 @@ wrapt==1.16.0
 xgboost==2.0.3
 yarl==1.9.4
 zipp==3.19.2
+langchain-core
+langchain-community
+langchain-aws
 
